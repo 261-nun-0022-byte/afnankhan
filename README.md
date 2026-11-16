@@ -1,47 +1,62 @@
-----------------
-<!--
-  AFNAN KHAN — GITHUB PROFILE README
-  Setup:
-  1) Replace every YOUR_GITHUB_USERNAME with your exact GitHub username.
-  2) Keep assets/cyber-banner.svg in the same repository path.
-  3) Edit any skills or links so they reflect your current, verifiable experience.
---><div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003b2b,100:00ff9c&height=180&section=header&text=AFNAN%20KHAN&fontSize=55&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=Offensive%20Security%20Researcher%20%7C%20Ethical%20Hacker%20%7C%20AI%20Systems%20Architect&descAlignY=62&descSize=16&descColor=e2e8f0" width="100%" alt=" Header Banner" alt=" Afnan Khan — Cybersecurity Student and Ethical Hacking Enthusiast" width="100%" />
+<!-- Terminal Header Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003b2b,100:00ff9c&height=180&section=header&text=AFNAN%20KHAN&fontSize=55&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=Offensive%20Security%20Researcher%20%7C%20Ethical%20Hacker%20%7C%20AI%20Systems%20Architect&descAlignY=62&descSize=16&descColor=e2e8f0" width="100%" alt=" Afnan Khan — Cybersecurity Student and Ethical Hacking Enthusiast" />
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&height=55&lines=Cybersecurity+Student;Ethical+Hacking+Enthusiast;Learning+Web+Application+Security;Exploring+Bug+Bounty+Research;Building+Gray_Hacker_Ai" alt="Animated typing text: Cybersecurity Student, Ethical Hacking Enthusiast, Web Security, Bug Bounty and AI" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&height=55&lines=Cybersecurity+Student;Ethical+Hacking+Enthusiast;Learning+Web+Application+Security;Exploring+Bug+Bounty+Research;Building+Bug_Hacker_Ai+%26+Gray_Hacker_Ai" alt="Animated typing text" />
   </a>
-  <a href="https://cyberwithafnan.com/">
+
+  <br/>
+
+  <a href="https://cyberwithafnan.com/" target="_blank">
     <img src="https://img.shields.io/badge/WEBSITE-Cyber%20With%20Afnan-00BBD4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Cyber With Afnan website" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
+  <a href="https://github.com/cyberafnankhan?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Explore%20Repositories-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub repositories" />
   </a>
-</div>>_ About Me
-Hi, I'm Afnan Khan, a BS Cybersecurity student interested in ethical hacking, web application security, vulnerability research, and artificial intelligence.
+</div>
+
+---
+
+### `>_` About Me
+
+Hi, I'm **Afnan Khan**, a **BS Cybersecurity student** interested in ethical hacking, web application security, vulnerability research, and artificial intelligence.
 
 I enjoy learning how systems work, testing ideas in authorized lab environments, and turning what I learn into practical projects. I am especially interested in understanding vulnerabilities manually, strengthening my networking and web security fundamentals, and exploring how AI can support cybersecurity workflows.
-- 🎓 Education: BS Cybersecurity — Northern University Nowshera
-- 🔐 Focus: Web Application Security, Ethical Hacking, and Bug Bounty learning
-- 🤖 Building: Bug_Hacker_Ai, a personal multi-agent AI assistant project
-- 🌐 Website: Cyber With Afnan
-- 🤝 Open to: Learning, responsible security collaboration, and open-source projects
-My approach: Understand the technology, test only with authorization, document the findings, and keep learning.
 
->_ Tech Stack & Tools
-Development and platforms
+- 🎓 **Education:** BS Cybersecurity — Northern University Nowshera
+- 🔐 **Focus:** Web Application Security, Ethical Hacking, and Bug Bounty learning
+- 🤖 **Building:** `Bug_Hacker_Ai` & `Gray_Hacker_Ai`, personal multi-agent AI assistant projects
+- 🌐 **Website:** [Cyber With Afnan](https://cyberwithafnan.com/)
+- 🤝 **Open to:** Learning, responsible security collaboration, and open-source projects
+
+> **My approach:** *Understand the technology, test only with authorization, document the findings, and keep learning.*
+
+---
+
+### `>_` Tech Stack & Tools
+
+#### Development and Platforms
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,maven,bash,powershell,linux,kali,git,github,vscode,wordpress,html,css,js&perline=7&theme=dark" alt="Technology icons: Java, Spring, Python, Bash, Linux, Kali, Git, GitHub, VS Code, MySQL, WordPress, HTML, CSS and JavaScript" />
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,python,bash,powershell,linux,kali,git,github,vscode,mysql,wordpress,html,css,js&perline=8&theme=dark" alt="Technology icons: Java, Spring, Maven, Python, Bash, PowerShell, Linux, Kali, Git, GitHub, VS Code, MySQL, WordPress, HTML, CSS and JavaScript" />
   </a>
-</div>Cybersecurity tools I practice with
+</div>
+
+#### Cybersecurity Tools I Practice With
 <p align="center">
-  <img src="https://img.shields.io/badge/Burp%20Suite-Web%20Security-FF6633?style=for-the-badge" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Nmap-Network%20Scanning-2D6A8A?style=for-the-badge" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Wireshark-Traffic%20Analysis-1679A7?style=for-the-badge" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Metasploit-Lab%20Practice-245A78?style=for-the-badge" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/VMware-Virtual%20Labs-607078?style=for-the-badge" alt="VMware" />
-  <img src="https://img.shields.io/badge/SQL-Database%20Practice-CC2927?style=for-the-badge" alt="SQL" />
-</p>>_ Featured Projects
+  <img src="https://img.shields.io/badge/Burp%20Suite-Web%20Security-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Nmap-Network%20Scanning-2D6A8A?style=for-the-badge&logo=linux&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Wireshark-Traffic%20Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Metasploit-Lab%20Practice-245A78?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/VMware-Virtual%20Labs-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" />
+  <img src="https://img.shields.io/badge/SQL-Database%20Practice-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
+
+---
+
+### `>_` Featured Projects
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -65,32 +80,43 @@ Development and platforms
       <p><a href="https://cyberwithafnan.com/">Visit Cyber With Afnan ↗</a></p>
     </td>
   </tr>
-</table>>_ Currently Learning
+</table>
+
+---
+
+### `>_` Currently Learning
+
 - Computer networking and web application security fundamentals
 - Manual vulnerability discovery and responsible disclosure
 - Java, Spring Boot, and SQL
 - AI agents, multi-agent architecture, and API integration
->_ Education & Background
-- University: Northern University Nowshera
-- Degree: Bachelor of Science in Cybersecurity
-- Additional learning: Diploma in Information Technology (DIT), Ethical Hacking, CCTV Installation, and Advanced Digital Marketing
-- Teaching: Approximately one year of teaching experience at Government Degree College Malakand
->_ GitHub Activity
-<!-- Replace YOUR_GITHUB_USERNAME in both image URLs below. A third-party service serves these cards and may occasionally be unavailable. --><div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9" height="165" alt="GitHub profile statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" height="165" alt="Most used programming languages" />
-</div>>_ Ask Me About
-Cybersecurity learning · Ethical Hacking · Web Security · Bug Bounty fundamentals · Kali Linux · Burp Suite · WordPress · AI Agents
->_ Collaboration
-I'm interested in collaborating on beginner-friendly open-source projects, cybersecurity education, authorized security research, and AI-powered tools. I value clear communication, responsible testing, and practical learning.
->_ Connect
-<p align="center">
-  <a href="https://cyberwithafnan.com/">
-    <img src="https://img.shields.io/badge/Website-Cyber%20With%20Afnan-00BBD4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Afnan%20Khan-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-  </a>
-</p><div align="center">
-  <sub><code>Think Security • Build Intelligence • Keep Learning</code></sub>
+
+---
+
+### `>_` Education & Background
+
+- **University:** Northern University Nowshera
+- **Degree:** Bachelor of Science in Cybersecurity
+- **Additional Learning:** Diploma in Information Technology (DIT), Ethical Hacking, CCTV Installation, and Advanced Digital Marketing
+- **Teaching:** Approximately one year of teaching experience at Government Degree College Malakand
+
+---
+
+### `>_` GitHub Activity
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cyberafnankhan&theme=github_dark" height="175" alt="GitHub profile statistics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cyberafnankhan&theme=github_dark" height="175" alt="Most used programming languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=cyberafnankhan&theme=tokyonight&background=0D1117&hide_border=true&ring=00E5FF&fire=00FF9C&currStreakLabel=00E5FF" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cyberafnankhan&bg_color=0D1117&color=00E5FF&line=00FF9C&point=FFFFFF&area=true&hide_border=true" alt="Contribution Activity Graph" />
 </div>
