@@ -1,30 +1,34 @@
-<!-- Typing SVG Banner -->
+<!-- Terminal Header Banner -->
 <div align="center">
-  <a href="https://cyberwithafnan.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Afnan+Khan+(%40cyberafnankhan);Ethical+Hacker+%7C+Security+Researcher+%7C+AI+Builder" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003b2b,100:00ff9c&height=180&section=header&text=AFNAN%20KHAN&fontSize=55&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=Offensive%20Security%20Researcher%20%7C%20Ethical%20Hacker%20%7C%20AI%20Systems%20Architect&descAlignY=62&descSize=16&descColor=e2e8f0" width="100%" alt="Header Banner" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=cyberafnankhan&label=PROFILE%20VIEWS&color=00ff9c&style=flat-square&labelColor=0d1117" alt="Profile Views" />
+  <a href="https://cyberwithafnan.com" target="_blank">
+    <img src="https://img.shields.io/badge/RESEARCH_PORTAL-cyberwithafnan.com-00ff9c?style=flat-square&logo=gitbook&logoColor=00ff9c&labelColor=0d1117" alt="Website" />
+  </a>
+  <a href="https://twitter.com/cyberafnankhan" target="_blank">
+    <img src="https://img.shields.io/badge/X_/_TWITTER-@cyberafnankhan-38bdf8?style=flat-square&logo=x&logoColor=white&labelColor=0d1117" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/cyberafnankhan" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-Afnan_Khan-0077b5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
   </a>
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cyberafnankhan&label=Profile%20Views&color=00ff9c&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
-  <a href="https://twitter.com/cyberafnankhan" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/cyberafnankhan?logo=twitter&style=for-the-badge&color=38bdf8&labelColor=0d1117" alt="Twitter Follow" />
-  </a>
-  <a href="https://cyberwithafnan.com" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-cyberwithafnan.com-00ff9c?style=for-the-badge&logo=rss&logoColor=00ff9c&labelColor=0d1117" alt="Website" />
-  </a>
-</p>
-
 ---
 
-### 👨‍💻 About Me
+### `>_` ROOT@CYBERAFNANKHAN:~# ./init_session.sh
 
-```yaml
-name: Afnan Khan
-alias: cyberafnankhan
-role: Ethical Hacker, Bug Bounty Hunter & AI Agent Developer
-current_focus:
-  - Building Bug_Hacker_Ai & Gray_Hacker_Ai (Multi-Agent Security Systems)
-  - Web Application Penetration Testing & Vulnerability Research
-  - Backend Engineering with Java, Spring Boot & Python
-motto: "Breaking things ethically to understand how they work behind the scenes."
+```bash
+┌──(root㉿cyberafnankhan)-[~]
+└─# ssh -i ~/.ssh/id_ed25519 afnan@cyberwithafnan.com -p 2222
+Enter passphrase for key '/root/.ssh/id_ed25519': ****************
+[✔] RSA-4096 Handshake Verified.
+[✔] Encrypted Tunnel Established (TLS 1.3 / AES-256-GCM)
+Last login: Mon Nov 16 16:19:00 2026 from 10.13.37.1
+
+========================================================================
+  SECURITY CLEARANCE : ETHICAL HACKER // VULNERABILITY RESEARCHER
+  CURRENT DIRECTIVE  : AUTONOMOUS OFFENSIVE AI & WEB APP SECURITY
+========================================================================
