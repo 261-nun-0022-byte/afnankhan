@@ -1,6 +1,6 @@
 <!-- Terminal Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003b2b,100:00ff9c&height=180&section=header&text=AFNAN%20KHAN&fontSize=55&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=Offensive%20Security%20Researcher%20%7C%20Ethical%20Hacker%20%7C%20AI%20Systems%20Architect&descAlignY=62&descSize=16&descColor=e2e8f0" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003b2b,100:00ff9c&height=180&section=header&text=WELCOME&fontSize=55&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=WELCOME%20%7C%20LEARNER%20%7C%20BUILDER%20%7C%20RESEARCHER&descAlignY=62&descSize=16&descColor=e2e8f0" width="100%" alt="Welcome Afnan Khan - GitHub Profile Banner" />
 </div>
 
 <div align="center">
@@ -16,114 +16,7 @@
   </a>
 </div>
 
----
-### `>_` ROOT@CYBERAFNANKHAN:~# ./about_me.sh
-
-```bash
-┌──(root㉿cyberafnankhan)-[~/profile]
-└─# whoami
-
-USER       : Afnan Khan
-ROLE       : CYBERSECURITY STUDENT | ETHICAL HACKER
-FOCUS      : WEB APPLICATION SECURITY | BUG BOUNTY | AI
-MISSION    : BUILDING SECURE SYSTEMS & INTELLIGENT TOOLS
-
-[✔] Profile Initialized
-[✔] Security Research Mode Enabled
-[✔] Development Environment Ready
-```
-
-### 👨‍💻 About Me
-
-Hi, I'm **Afnan Khan**, a Cybersecurity student, Ethical Hacking enthusiast, and technology enthusiast passionate about understanding how systems work and how they can be secured.
-
-My primary interests include Web Application Security, Bug Bounty Hunting, Vulnerability Research, Network Security, and Artificial Intelligence.
-
-I enjoy exploring security technologies, working in practical lab environments, developing software, and building projects that combine cybersecurity with AI.
-
-My goal is to continuously improve my technical knowledge and contribute to the cybersecurity and open-source communities.
-
-### 🛠️ My Skills & Technologies
-
-**Cybersecurity & Ethical Hacking**
-- Kali Linux
-- Burp Suite Professional
-- Nmap
-- Wireshark
-- Metasploit
-- VMware
-- Web Application Security
-- Bug Bounty Research
-
-**Programming & Development**
-- Java
-- Spring Boot
-- SQL / SQL Server
-- Git & GitHub
-- VS Code
-
-**Web Development & Digital Marketing**
-- WordPress
-- Elementor
-- WooCommerce
-- SEO
-- AIOSEO
-
-**Artificial Intelligence**
-- AI Agents
-- Multi-Agent Systems
-- API Integration
-- AI Automation
-- LLM Technologies
-
-### 🚀 My Projects
-
-**1. Gray_Hacker_Ai**
-- Developing a private, multi-agent AI cybersecurity assistant.
-- Focused on AI-powered cybersecurity research and analysis.
-- Designed around specialized AI agents and model integrations.
-- Backend development using Java and Spring Boot.
-
-**2. Cyber With Afnan**
-- Personal cybersecurity and ethical hacking platform.
-- Focused on cybersecurity tools, software, tutorials, and educational resources.
-- Website: https://cyberwithafnan.com/
-
-### 🎓 My University
-
-**Northern University Nowshera**
-
-- Degree: Bachelor of Science (BS)
-- Department: Cybersecurity
-- Academic Focus: Information Security, Networking, Ethical Hacking, and Computer Technologies.
-
-### 🎯 My Current Focus
-
-- Improving Web Application Security skills.
-- Practicing authorized Bug Bounty Hunting.
-- Strengthening Networking fundamentals.
-- Learning advanced Vulnerability Research.
-- Developing Gray_Hacker_Ai.
-- Exploring AI Agents and Multi-Agent Architectures.
-- Contributing to open-source projects.
-
-### 🤝 Let's Connect & Collaborate
-
-I'm interested in connecting with cybersecurity enthusiasts, ethical hackers, developers, AI researchers, and open-source contributors.
-
-Let's learn, build, research, and create something meaningful together!
-
----
-
-```bash
-┌──(root㉿cyberafnankhan)-[~]
-└─# echo "Think Security. Build Intelligence. Keep Learning."
-
-[✔] SESSION TERMINATED
-[✔] NEXT MISSION: NEVER STOP LEARNING.
-
-```
-###
+----------------
 <!--
   AFNAN KHAN — GITHUB PROFILE README
   Setup:
@@ -131,7 +24,7 @@ Let's learn, build, research, and create something meaningful together!
   2) Keep assets/cyber-banner.svg in the same repository path.
   3) Edit any skills or links so they reflect your current, verifiable experience.
 --><div align="center">
-  <img src="./assets/cyber-banner.svg" alt="Afnan Khan — Cybersecurity Student and Ethical Hacking Enthusiast" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003b2b,100:00ff9c&height=180&section=header&text=AFNAN%20KHAN&fontSize=55&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=Offensive%20Security%20Researcher%20%7C%20Ethical%20Hacker%20%7C%20AI%20Systems%20Architect&descAlignY=62&descSize=16&descColor=e2e8f0" width="100%" alt=" Header Banner" alt=" Afnan Khan — Cybersecurity Student and Ethical Hacking Enthusiast" width="100%" />
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&height=55&lines=Cybersecurity+Student;Ethical+Hacking+Enthusiast;Learning+Web+Application+Security;Exploring+Bug+Bounty+Research;Building+Gray_Hacker_Ai" alt="Animated typing text: Cybersecurity Student, Ethical Hacking Enthusiast, Web Security, Bug Bounty and AI" />
   </a>
@@ -144,10 +37,10 @@ Let's learn, build, research, and create something meaningful together!
 </div>>_ About Me
 Hi, I'm Afnan Khan, a BS Cybersecurity student interested in ethical hacking, web application security, vulnerability research, and artificial intelligence.
 
-I enjoy learning how systems work, testing ideas in authorized lab environments, and turning what I learn into practical projects. I am especially interested in understanding vulnerabilities manually, improving my networking and web-security fundamentals, and exploring how AI can support cybersecurity workflows.
+I enjoy learning how systems work, testing ideas in authorized lab environments, and turning what I learn into practical projects. I am especially interested in understanding vulnerabilities manually, strengthening my networking and web security fundamentals, and exploring how AI can support cybersecurity workflows.
 - 🎓 Education: BS Cybersecurity — Northern University Nowshera
 - 🔐 Focus: Web Application Security, Ethical Hacking, and Bug Bounty learning
-- 🤖 Building: Gray_Hacker_Ai, a personal multi-agent AI assistant project
+- 🤖 Building: Bug_Hacker_Ai, a personal multi-agent AI assistant project
 - 🌐 Website: Cyber With Afnan
 - 🤝 Open to: Learning, responsible security collaboration, and open-source projects
 My approach: Understand the technology, test only with authorization, document the findings, and keep learning.
@@ -170,7 +63,7 @@ Development and platforms
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 Gray_Hacker_Ai</h3>
+      <h3>🤖 Bug_Hacker_Ai</h3>
       <p>A personal multi-agent AI cybersecurity assistant in development.</p>
       <ul>
         <li>Specialized agents for research, authorized security analysis, knowledge management, and development support.</li>
@@ -201,7 +94,7 @@ Development and platforms
 - Additional learning: Diploma in Information Technology (DIT), Ethical Hacking, CCTV Installation, and Advanced Digital Marketing
 - Teaching: Approximately one year of teaching experience at Government Degree College Malakand
 >_ GitHub Activity
-<!-- Replace YOUR_GITHUB_USERNAME in both image URLs below. These cards are served by a third-party service and may occasionally be unavailable. --><div align="center">
+<!-- Replace YOUR_GITHUB_USERNAME in both image URLs below. A third-party service serves these cards and may occasionally be unavailable. --><div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9" height="165" alt="GitHub profile statistics" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" height="165" alt="Most used programming languages" />
 </div>>_ Ask Me About
